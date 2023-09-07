@@ -1,3 +1,1 @@
-print("Hello")
-# mm
-print('Test')
+print("So I can use same files on Mac and Windows")
